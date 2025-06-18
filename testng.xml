@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ParallelTestSuite" parallel="tests">
+    <listeners>
+        <listener class-name="org.testng.reporters.EmailableReporter2"/>
+        <listener class-name="org.testng.reporters.XMLReporter"/>
+    </listeners>
+    <test name="rest-assured Test">
+        <classes>
+            <class name="tests.UserTest"/>
+        </classes>
+    </test>
+</suite>
