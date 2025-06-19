@@ -21,7 +21,7 @@ RestAssuredAutomation is a REST API automation framework built using Java, TestN
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/RestoShort.git
+   git clone https://github.com/your-username/RestAssuredAutomation.git
    cd RestoShort
    ```
 
