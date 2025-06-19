@@ -1,6 +1,6 @@
-# RestoShort - API Automation Testing Framework
+# RestAssuredAutomation - API Automation Testing Framework
 
-RestoShort is a REST API automation framework built using Java, TestNG, and REST Assured. It provides a modular and scalable structure for validating RESTful endpoints with enhanced reporting using ExtentReports.
+RestAssuredAutomation is a REST API automation framework built using Java, TestNG, and REST Assured. It provides a modular and scalable structure for validating RESTful endpoints with enhanced reporting using ExtentReports.
 ---
 
 ## ✅ Features
